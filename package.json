@@ -8,7 +8,7 @@
     "test": "ng test",
     "lint": "ng lint",
     "e2e": "ng e2e",
-    "prod": "ng build --prod --base-href=\"./\""
+    "prod": "ng build --prod --base-href https://game-and-game-devs.github.io/rock-paper-scissors/ --deploy-url=https://game-and-game-devs.github.io/rock-paper-scissors/"
   },
   "private": true,
   "dependencies": {
